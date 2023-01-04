@@ -17,10 +17,10 @@ Answer:
 
 #### Classes we created and edited:
 
-• MatrixEntry.java
-• MatrixEntryTest.java
-• SparseIntMatrix.java
-• SparseIntMatrixTest.java
+ - MatrixEntry.java
+ - MatrixEntryTest.java
+ - SparseIntMatrix.java
+ - SparseIntMatrixTest.java
 
 #### How to compile and run your program
 
